@@ -130,7 +130,7 @@ env.bak/
 venv.bak/
 
 # Pycharm project settings
-.idea/**
+.idea/
 
 # mkdocs documentation
 /site
