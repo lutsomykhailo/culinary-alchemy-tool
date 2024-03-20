@@ -1,0 +1,19 @@
+[project]
+name = "culinary-alchemy-tool"
+version = "0.1.0"
+description = "A Python package for culinary enthusiasts, providing tools for experimenting with recipes and flavors."
+authors = [
+    {name = "lutsomykhailo", email = "lutso.mykhailo@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true
